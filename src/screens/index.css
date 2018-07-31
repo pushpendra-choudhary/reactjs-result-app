@@ -1,0 +1,27 @@
+/* navigation bar */
+
+.navbar-default {
+  background-color: #3c50c2;
+  border-color: #282a35;
+}
+.navbar-default {
+  background-color: #282a35;
+  border-color: #282a35;
+}
+
+.navbar {
+  border-radius: 0;
+  background: #282a35
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a {
+  color: #aaa;
+}
+
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a:hover {
+  color: #fff;
+}

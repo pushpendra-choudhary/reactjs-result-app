@@ -1,0 +1,45 @@
+body {
+  background: #eee;
+}
+
+/* 
+Result Board
+*/
+
+.header {
+  font-weight: bold;
+  font-size: 24;
+}
+.board-header {
+  font-weight: bold;
+}
+
+ .well {
+  margin-bottom: 0px;
+  border-radius: 0;
+  border: 0;
+  padding: 14px;
+}
+
+/* Result Item */
+.result-item .well {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 0px;
+  border-radius: 0;
+  border: 0;
+  box-shadow: 0;
+  background: transparent
+}
+
+.Topper {
+  color: green;
+}
+
+.Pass {
+  color: black;
+}
+
+.Fail {
+  color: red;
+}

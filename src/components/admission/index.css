@@ -1,0 +1,14 @@
+.form {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.help {
+  font-size: 12px;
+  text-align: start;
+}
+
+.submit {
+  padding-left: 10;
+  padding-right: 10;
+}
